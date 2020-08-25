@@ -1,4 +1,4 @@
-def display board board=(" "," "," "," "," "," "," "," "," "," ",)
+def display board
   puts " |    |  "
   puts "---------"
   puts " |    |  "
