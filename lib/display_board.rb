@@ -1,4 +1,4 @@
-def display board (empty)
+def display board (board=["x","o",""])
   puts " |    |  "
   puts "---------"
   puts " |    |  "
