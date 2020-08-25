@@ -4,3 +4,4 @@ def display board board=(" "," "," "," "," "," "," "," "," "," ",)
   puts " |    |  "
   puts "---------"
   puts " |    |  "
+end 
