@@ -4,4 +4,3 @@ def display board (board=["x","o",""])
   puts " |    |  "
   puts "---------"
   puts " |    |  "
-end 
