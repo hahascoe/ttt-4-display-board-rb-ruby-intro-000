@@ -1,4 +1,4 @@
-def display board 
+def display board (empty)
   puts " |    |  "
   puts "---------"
   puts " |    |  "
