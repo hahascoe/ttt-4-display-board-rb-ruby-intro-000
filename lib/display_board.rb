@@ -1,8 +1,4 @@
-def display board
-  puts " |    |  "
-  puts "---------"
-  puts " |    |  "
-  puts "---------"
-  puts " |    |  "
+def display board (board=" "," ",
+puts board
 end
   
